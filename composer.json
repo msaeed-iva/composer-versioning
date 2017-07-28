@@ -1,0 +1,10 @@
+{
+    "name": "msaeed-iva/composer-versioning",
+    "authors": [
+        {
+            "name": "Mohamed Saeed",
+            "email": "msaeed027@gmail.com"
+        }
+    ],
+    "require": {}
+}
